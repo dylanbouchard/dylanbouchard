@@ -1,6 +1,6 @@
 ## Dylan Bouchard
 
-Principal Applied Scientist @ [CVS Health](https://github.com/cvs-health)  
+Principal Researcher @ [CVS Health](https://github.com/cvs-health)  
 *AI Safety | Uncertainty Quantification | Hallucination Detection | Bias & Fairness*
 
 I lead CVS Health's first AI research program, focusing on Responsible AI and AI Safety. My work bridges cutting-edge research with practical implementation through open-source toolkits.
